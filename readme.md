@@ -25,7 +25,7 @@ __[demo](https://partialjs.herokuapp.com/)__
 2. Support for autorefresh number of tim3s
 
 
-##Gettting started 
+##Getting started 
 
 ```
 <!-- just before the body end include partial js and you are good to go -->
